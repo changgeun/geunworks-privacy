@@ -8,3 +8,6 @@ h2 { font-size: 20px; margin: 32px 0 8px; padding-top: 16px; border-top: 1px sol
 p, li { margin: 4px 0; }
 .meta { color: var(--muted); font-size: 14px; }
 a { color: inherit; }
+table { width: 100%; border-collapse: collapse; margin: 8px 0; font-size: 15px; }
+th, td { border: 1px solid var(--line); padding: 8px; text-align: left; vertical-align: top; }
+th { color: var(--muted); font-weight: 600; }
